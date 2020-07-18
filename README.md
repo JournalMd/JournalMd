@@ -15,3 +15,14 @@
 | [JournalMdTemplates](https://github.com/JournalMd/) | Collection and journal templates. |
 | [JournalMdExample](https://github.com/JournalMd/JournalMdExample) | Example of exported files. |
 | [JournalMdWeb](https://github.com/JournalMd/JournalMdWeb) | Project for the [www.journal-md.com](https://www.journal-md.com/) website sources. The Final page is generated using *Hugo* the static site generator. |
+
+## ToDos and Features
+
+* Make calculator load dynamic
+* Allow usage of templates (Based on language, add infobox for author/url, ...)
+* Send mails for registration, confirmation, ...
+* Allow image uploads for user avatar
+* Create image field
+* Create generic file field (pdf, docx, ...)
+* Ansible Deployment
+* Docker database with compose https://code-maze.com/mysql-aspnetcore-docker-compose/
