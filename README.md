@@ -26,3 +26,9 @@
 * Create generic file field (pdf, docx, ...)
 * Ansible Deployment
 * Docker database with compose https://code-maze.com/mysql-aspnetcore-docker-compose/
+* Save views and filters
+* Allow custom types for users?
+
+### misc
+
+* Add locations as meta information on possible mobile apps? (hh:mm, geo,  ...)
