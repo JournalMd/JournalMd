@@ -28,6 +28,7 @@
 * Docker database with compose https://code-maze.com/mysql-aspnetcore-docker-compose/
 * Save views and filters
 * Allow custom types for users?
+* Quick entry page - Only enter required fields for type and save. (One Click)
 
 ### misc
 
